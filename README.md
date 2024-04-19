@@ -1,3 +1,24 @@
+---
+
+## Official Deprecation Announcement
+
+As of 2024-04-19, the **Ontario.ca Jamstack Toolkit** project is officially deprecated. This repository will no longer receive updates or support. Our team is excited to introduce a more advanced and robust version, **[Ontario.ca Frontend](https://github.com/ongov/ontario-frontend)**, which we encourage all users to adopt.
+
+### Rationale for Deprecation
+
+- **New Features and Improvements:** The new version of our toolkit includes significant enhancements and additional features that are not supported in this version.
+
+- **Better Performance and Stability:** The updated toolkit offers improved performance and stability, aligning with our ongoing commitment to providing high-quality and robust digital solutions.
+
+### Recommended Actions
+
+- **Migrate to Ontario Frontend:** To benefit from the latest improvements and continued support, we strongly recommend migrating to the new toolkit available at **[Ontario Frontend](https://github.com/ongov/ontario-frontend)**.
+
+- **Repository Archive:** This project will be preserved in a read-only state for archival purposes, allowing users to access and reference the legacy codebase as needed.
+
+We appreciate your support and understanding as we continue to improve our digital offerings.
+
+---
 # Ontario.ca Jamstack Toolkit
 
 The best way to start building applications for Ontario.ca.
